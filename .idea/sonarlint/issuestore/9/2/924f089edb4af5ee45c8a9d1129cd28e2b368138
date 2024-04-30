@@ -1,0 +1,12 @@
+
+7
+java:S1220""Move this file to a named package.8à®ûüğ1
+G	java:S106"+Replace this use of System.out by a logger.(öÈÛ¡8à®ûüğ1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(Ç¾šêüÿÿÿÿ8à®ûüğ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ê‚ãõøÿÿÿÿ8à®ûüğ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÌÆÄ÷8à®ûüğ1
+M
+java:S1128"0Remove this unused import 'javax.xml.soap.Node'.(Ñ³îù8‘Íüüğ1
+S
+java:S1128"6Remove this unused import 'DataStructures.LinkedList'.(ô½¼§8‘Íüüğ1

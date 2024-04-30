@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş†åøÿÿÿÿ8¿‘ŸÖğ1
+`
+java:S2259Ğ"BA "NullPointerException" could be thrown; "prev" is nullable here.(„ÅŞŒ8Ş‘ŸÖğ1
+G	java:S106""+Replace this use of System.out by a logger.(½ÛÃÒ8î‘ŸÖğ1
+G	java:S106("+Replace this use of System.out by a logger.(´æ²8î‘ŸÖğ1
+G	java:S106+"+Replace this use of System.out by a logger.(åÒ¥‘8î‘ŸÖğ1
+G	java:S106."+Replace this use of System.out by a logger.(æŒ˜”8î‘ŸÖğ1
+\
+java:S1854œ"9Remove this useless assignment to local variable "after".(‚©åŸúÿÿÿÿ8î‘ŸÖğ1
+]	java:S125i"<This block of commented-out lines of code should be removed.(„êÎÔúÿÿÿÿ8î‘ŸÖğ1
+X	java:S125t"<This block of commented-out lines of code should be removed.(ûİÛ8î‘ŸÖğ1
+X	java:S125}"<This block of commented-out lines of code should be removed.(×Á–Ş8î‘ŸÖğ1
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(±Ñ˜8î‘ŸÖğ1
